@@ -1,11 +1,11 @@
 <h1 align="center">Hello World👋</h1>
 <h3 align="center"> I'm Carlos, A passionate Web developer from Mexico</h3>
 
-- 🌱 I’m currently mastering my skills in **Javascript**
+🌱 I’m currently mastering my skills in **Javascript**
 
-- 👯 I’m looking to collaborate on **Javascript projects**
+👯 I’m looking to collaborate on **Javascript projects**
 
-- 💬 Ask me about **React, Vue**
+💬 Ask me about **React, Vue**
 
 #### [Click here to ask or suggest anything about my repositories!](https://github.com/carloshs1994/carloshs1994/issues/new)
 
@@ -20,6 +20,6 @@
   <img width="400em" src="https://github-readme-streak-stats.herokuapp.com/?user=carloshs1994&theme=radical" alt="carloshs1994" />
 </p>
 
-<!-- <p align="center"> 
+<p align="center"> 
   <img width="600em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carloshs1994&layout=compact&langs_count=999&include_all_commits=true&hide_progress=true&hide_border=true&theme=radical&hide=">
-</p> -->
+</p>
