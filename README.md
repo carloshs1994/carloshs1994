@@ -1,4 +1,4 @@
-<img src="hey.gif" alt="hey! I'm Carlos" width="100%">
+<img src="hey.gif" alt="hey! I'm Carlos" width="80%" align="center">
 <h1 align="center">Hello World👋</h1>
 <h3 align="center"> I'm Carlos, A passionate Web developer from Mexico</h3>
 
