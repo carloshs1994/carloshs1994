@@ -2,11 +2,13 @@
 <h1 align="center">Hello World👋</h1>
 <h3 align="center"> I'm Carlos, A passionate Web developer from Mexico</h3>
 
-🌱 I’m currently mastering my skills in **Javascript**
+   🌱 I’m currently mastering my skills in **Javascript**
 
-👯 I’m looking to collaborate on **Javascript projects**
+   🚴 I love riding my bike
 
-💬 Ask me about **React, Vue**
+  🍵 I’m looking to collaborate on **Javascript projects**
+
+   💬 Ask me about **React, Vue**
 
 #### [Click here to ask or suggest anything about my repositories!](https://github.com/carloshs1994/carloshs1994/issues/new)
 
