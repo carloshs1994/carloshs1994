@@ -2,15 +2,15 @@
 <h1 align="center">Hello World👋</h1>
 <h3 align="center"> I'm Carlos, A passionate Web developer from Mexico</h3>
 
-   🌱 I’m currently mastering my skills in **Ruby** ♦️
+   🌱 I’m currently mastering my skills in **Ruby** ♦️.
 
-   🚴 I love riding my bike
+   🚴 I love riding my bike.
    
-   ⛰️ My favorite hobby is climbing mountains/hiking
+   ⛰️ My favorite hobby is climbing mountains/hiking.
 
-  🍵 I’m looking to collaborate on **React projects**
+  🍵 I’m looking to collaborate on **React projects**.
 
-   💬 Ask me about **React, Stocks, Physics**
+   💬 Ask me about **React, Stocks, Physics**.
 
 #### [Click here to ask or suggest anything about my repositories!](https://github.com/carloshs1994/carloshs1994/issues/new)
 
